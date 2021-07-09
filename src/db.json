@@ -1,0 +1,64 @@
+{
+    "latest":[
+        {
+            "_id":1,
+            "name":"Black Panther",
+            "language":"ENGLISH",
+            "rate":4.5,
+            "type":"Action Adventure Fantasy",
+            "imageUrl":"https://image.ibb.co/f0hhZc/bp.jpg"
+        },
+        {
+            "_id":2,
+            "name":"Death Wish",
+            "language":"ENGLISH",
+            "rate":3.2,
+            "type":"Action Crime Thriller",
+            "imageUrl":"https://image.ibb.co/gC9PfH/dw.jpg"
+        },
+        {
+            "_id":3,
+            "name":"Coco",
+            "language":"ENGLISH",
+            "rate":4.5,
+            "type":"Adventure Animation Family",
+            "imageUrl":"https://image.ibb.co/dQwWSx/coco.jpg"
+        }
+    ],
+    "events":[
+        {
+            "_id":1,
+            "name":"Mision Impossible",
+            "language":"ENGLISH",
+            "rate":2.5,
+            "type":"Horror Thriller",
+            "imageUrl":"https://www.aceprensa.com/wp-content/uploads/2018/07/353081-0.jpg"
+        },
+        {
+            "_id":2,
+            "name":"Incredibles 2",
+            "language":"ENGLISH",
+            "rate":4,
+            "type":"Animated",
+            "imageUrl":"https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg?region=0%2C0%2C540%2C810"
+        }
+    ],
+    "upcomingMovies":[
+        {
+            "_id":1,
+            "name":"Avengers",
+            "language":"ENGLISH",
+            "rate":2,
+            "type":"Action",
+            "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/81rypQUyjFL._AC_SX425_.jpg"
+        },
+        {
+            "_id":2,
+            "name":"Black Friday",
+            "language":"ENGLISH",
+            "rate":4.5,
+            "type":"Action Adventure Fantasy",
+            "imageUrl":"https://m.media-amazon.com/images/M/MV5BYWRjMDlmNGYtOGFhYy00ZWU4LTk3MzEtOTI4ZTgxN2Y5NGNkXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_.jpg"
+        }
+    ]
+}
