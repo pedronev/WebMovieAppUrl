@@ -1,4 +1,4 @@
-const baseUrl="http://localhost:7000"
+const baseUrl="http://3.134.99.170:4000"
 
 export function latestList(){
     const output=fetch(`${baseUrl}/latest`,
@@ -22,7 +22,6 @@ export function eventsList(){
 }
 
 export function upcomingMoviesList(){
-  debugger
   const output=fetch(`${baseUrl}/upcomingMovies`,
       {method:'GET'})
   .then((response) => response.json())

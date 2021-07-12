@@ -123,7 +123,7 @@ export default function TicketBooking(props) {
         aria-describedby="simple-modal-description"
       >
         <FinalBooking className={classes.paper}
-        date={date} seat={seat} timings={timings} movie={"Avengers"} >
+        date={date} seat={seat} timings={timings} movie={"Black Phanter"} >
 
                   </FinalBooking>
       </Modal>

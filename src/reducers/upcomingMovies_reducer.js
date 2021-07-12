@@ -1,5 +1,4 @@
 export default function(state={},action){
-    debugger
     switch(action.type){
         case 'GET_UPCOMINGMOVIES':
             return{...state,latest:action.payload}

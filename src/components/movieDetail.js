@@ -72,8 +72,9 @@ export default function MovieDetail(props) {
 
         <Link  to={{
     pathname: "/booking",
-    state: { name: 'jack', age: 25, city: 'Antwerp'},
-    myCustomProps: "product"
+    aboutProps:{
+      courseProp:props.title
+  }
   }}
 > book
 </Link>
